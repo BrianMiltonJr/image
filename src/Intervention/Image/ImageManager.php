@@ -14,7 +14,7 @@ class ImageManager
      * @var array
      */
     public $config = [
-        'driver' => 'gd'
+        'driver' => 'imagick'
     ];
 
     /**
